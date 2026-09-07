@@ -21,7 +21,7 @@ A modular, defensive user authentication system built with Python. Designed as a
    git clone [https://github.com/AxelGabrielOlarte/python-secure-login-system.git](https://github.com/AxelGabrielOlarte/python-secure-login-system.git)
    cd python-secure-login-system
 
-   Author
+Author
 Axel Gabriel Olarte
 Aspiring Cybersecurity & Security Engineering Professional
 
